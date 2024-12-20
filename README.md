@@ -18,7 +18,7 @@ https://arxiv.org/abs/2412.14173
 https://yihao-meng.github.io/AniDoc_demo/
 
 ### 🖼 Output
-
+![sample1_sample1](https://github.com/user-attachments/assets/40d6cdc1-a81c-4000-a0a4-8ef27c983ad4)
 
 ### 🏢 Sponsor
 https://modelslab.com
